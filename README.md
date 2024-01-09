@@ -15,4 +15,5 @@ O desafio do site era fazer um site com o design mais parecido com este:
 **Resultado:**
 <br>
 <br>
-![image](https://github.com/PedroHenriqueMoraesSamsonas/Desafio-de-design/assets/131505706/4dd36689-aa52-4970-82de-6fa66bfad7bf)
+![Imagem do WhatsApp de 2024-01-09 à(s) 12 12 02_069908d9](https://github.com/PedroHenriqueMoraesSamsonas/Desafio-de-design/assets/131505706/1ae4a448-fad8-4b92-8bf8-bdc7fb3e8576)
+
