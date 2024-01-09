@@ -3,7 +3,7 @@ Esse foi um design do site: https://www.frontendmentor.io/challenges/order-summa
 <br>
 <br>
 
-*Propósito*
+**Propósito:**
 <br>
 <br>
 O desafio do site era fazer um site com o design mais parecido com este:
@@ -12,7 +12,7 @@ O desafio do site era fazer um site com o design mais parecido com este:
 <br>
 <br>
 
-**Resultado**
+**Resultado:**
 <br>
 <br>
 ![image](https://github.com/PedroHenriqueMoraesSamsonas/Desafio-de-design/assets/131505706/4dd36689-aa52-4970-82de-6fa66bfad7bf)
